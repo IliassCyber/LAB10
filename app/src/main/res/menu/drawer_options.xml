@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_first"
+        android:icon="@drawable/ic_home"
+        android:title="Accueil" />
+    <item
+        android:id="@+id/nav_second"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Statistiques" />
+    <item
+        android:id="@+id/nav_data_list"
+        android:icon="@drawable/ic_list"
+        android:title="Inventaire" />
+</menu>
